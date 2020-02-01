@@ -1,4 +1,3 @@
 #!/bin/bash
-
 ls > /etc/passwd.txt /etc/hosts.txt
 
